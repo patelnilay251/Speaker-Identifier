@@ -15,8 +15,4 @@ The Keras model is stored in the [model](https://github.com/parth58/Speaker_Reco
 
 `media` folder includes the audio files loaded using the server.
 
-### Submitted By:
-* Parth A. Patel (CE - 093)
-* Yug D. Rajani (CE - 109)
-* Darsh N. Shah (CE - 119)
 
