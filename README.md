@@ -5,7 +5,7 @@ Download the dev-clean and dev-other folder from [here](http://www.openslr.org/r
 
 ### How to start the server and run Django project
 
-1. Clone the project `git clone https://github.com/parth58/Speaker_Recognizer.git`
+1. Clone the project `https://github.com/patelnilay251/Speaker-Identifier.git`
 2. Install all requirements `$ pip install -r requirements.txt`
 3. Open a terminal window, `cd` into the project folder and run `python manage.py runserver --nothreading --noreload`.
 
