@@ -1,4 +1,4 @@
-# SDP-Speaker-Identifier
+#Speaker-Identifier
 
 ### Data set Details
 Download the dev-clean and dev-other folder from [here](http://www.openslr.org/resources/12/)
